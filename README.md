@@ -23,6 +23,11 @@ DSiNANDPath=C:/Users/(USER)/Downloads/flipnotemelonDS_windows.zip/BIOS/EU BIOS/d
   <li>To run the BIOS, click on "File", then "Boot Firmware". You should see the emulator booting up.</li>
   <li>Open Flipnote and Have Fun!</li>
   </ol>
+  <h2>Importing the BIOS Files manually (If it didn't work)</h2>
+    <div>
+    <b>If replacing the BIOS files didn't work, close the config file, open the app, select "Config" then Emu settings. Select "DSi-Mode", and choose the directory to the BIOS files maually.</b>
+<div>
+  <b>When Finished, press "OK".</b><p>Try seeing if the BIOS boots up.</p>
   <h2>Q and A</h2>
   <ul>
   <li>Q: Can I use MelonDS to access any active DSi Flipnote replacement server?</li>
