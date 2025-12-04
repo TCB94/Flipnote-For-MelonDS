@@ -35,6 +35,9 @@ DSiNANDPath=C:/Users/(USER)/Downloads/flipnotemelonDS_windows.zip/BIOS/EU BIOS/d
   <p>Before using it, check their TOS FIRST. I am NOT reponsible for ANY users getting banned because of this.</p>
   <li>Q: What Flipnote revivals allow the use of emulators?</li>
   <p>Faithnote MAY, but its server isn't released to the public yet.</p>
+  <li>Q: The Japanese version of Flipnote Studio is very laggy as soon as I open it... How do I fix it?</li>
+  <p>You can try to enable "DSP HLE" by heading to "Config" -> "Emu settings" -> DSi Mode, check on "DSP HLE", and press "OK".</p>
+  <p>Alternatively, if the above steps doesn't work, you can try heading to "Config" -> "Emu settings" -> "CPU emulation", check on "Enable JIT recomplier", and press "OK".</p>
     </ul>
 <h2>Credits</h2>
 <ul>
